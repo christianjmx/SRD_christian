@@ -35,7 +35,7 @@
  
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/1.8.png)
 
-  Configuramos un nombre de dominio.
+·  Configuramos un nombre de dominio.
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/1.9.png)
 
@@ -54,6 +54,22 @@
   (Comprobamos que le reserva la IP que le asignamos)
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.3.png)
+
+·  Configuramos alguna opción para el ambito.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.4.png)
+
+  (Decidí poner el de zona horaria).
+ 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.5.png)
+
+·  Configuramos alguna opción para el servidor.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.6.png)
+
+  (Decidí poner el de zona horaria).
+  
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.7.png)
 
 
   
