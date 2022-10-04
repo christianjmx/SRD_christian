@@ -1,7 +1,7 @@
 # DHCP #
 ## Christian José Moreno Expósito ##
 
-### Instalación del servivio DHCP en Windows 2016 server ###
+### Instalación del servicio DHCP en Windows 2016 server ###
 
 ·  Vamos al apartado de Agregar un Rol o característica.
   
@@ -39,7 +39,7 @@
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/1.9.png)
 
-·  Ahora reservamos una  dirección asociandola a un equipo específico (MAC)
+·  Ahora reservamos una  dirección asociandola a un equipo específico (MAC).
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.0.png)
 
@@ -51,7 +51,7 @@
  
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.2.png)
 
-  (Comprobamos que le reserva la IP que le asignamos)
+  (Comprobamos que le reserva la IP que le asignamos).
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.3.png)
 
@@ -73,7 +73,7 @@
 
 ## Segunda parte ##
 
-·  Instalamos una segunda tarjeta de red en el servidor
+·  Instalamos una segunda tarjeta de red en el servidor.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.8.png)
 
@@ -89,15 +89,15 @@
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.1.png)
 
-  (Configuramos la puerta de enlace para los equipos)
+  (Configuramos la puerta de enlace para los equipos).
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.2.png)
 
-  (Configuramos un dominio)
+  (Configuramos un dominio).
  
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.3.png)
 
-·  Cambiamos la red a la que se conectará el cliente
+·  Cambiamos la red a la que se conectará el cliente.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.4.png)
 
