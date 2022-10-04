@@ -71,7 +71,69 @@
   
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.7.png)
 
+## Segunda parte ##
 
+·  Instalamos una segunda tarjeta de red en el servidor
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.8.png)
+
+·  Configurar la nueva interfaz de red estáticamente, en una red diferente a la inicial.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/2.9.png)
+
+·  Crear un nuevo ámbito asociado a esta segunda red a la que presta servicio.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.0.png)
+
+  (Direcciones Excluidas.)
+  
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.1.png)
+
+  (Configuramos la puerta de enlace para los equipos)
+  
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.2.png)
+
+  (Configuramos un dominio)
+ 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.3.png)
+
+·  Cambiamos la red a la que se conectará el cliente
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.4.png)
+
+·  Comprobamos que recibe el cliente una dirección ip.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.5.png)
+
+·  Creamos un nuevo SUPERAMBITO.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.6.png)
+
+   (Seleccionamos un nombre para el superambito.)
+   
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.7.png)
+
+   (Seleccionamos los ambitos que queremos juntar en el superambito)
+   
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.8.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/3.9.png)
+
+·  Desactivamos el superambito para comprobar si deja defuncionar el DHCP.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/4.0.png)
+
+   (Comprobamos que el cliente no recibe ninguna dirección IP)
+   
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/4.1.png)
+
+·  Activamos el superambito para comprobar si el DHCP vuelve a funcionar.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/4.2.png)
+
+   (Comprobamos que el cliente recibe una dirección IP)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP/IMG/4.3.png)
   
 
 
