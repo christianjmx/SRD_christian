@@ -50,7 +50,41 @@
   IP que queremos reservarle).
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.0.png)
 
+## Comprobación de la reserva de IP ##
 
+  - Reiniciamos el servicio y comprobamos en el cliente que se le reservó la IP que le indicamos.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.1.png)
+
+## SEGUNDA PARTE: Añadir otro servicio de DHCP ##
+
+  - Añadimos una segunda interfaz de red al servidor con otro nombre, en este caso se llama red2.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.2.png)
+
+  - Cambiamos el nombre de la interfaz de red del cliente a red2.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.3.png)
+
+  - Configuramos una IP estática en la segunda tarjeta de red que acabamos de activar.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.4.png)
+
+  - Vamos al archivo de configuración del DHCP y creamos un nuevo ambito con todas sus opciones.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.5.png)
+
+  - Añadimos la nueva interfaz al archivo de configuraciones de interfaces del DHCP.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.6.png)
+
+  - Reiniciamos el servicio DHCP y comprobamos su estado.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.7.png)
+
+  - Comprobamos que el cliente recibe la IP del nuevo ambito que hemos creado.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%202/DHCP%20Linux/IMG/2.8.png)
   
 
 
