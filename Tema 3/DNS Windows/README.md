@@ -1,6 +1,6 @@
 # Instalación y configuración DNS Windows - Christian Moreno #
 
-- Creamos una nueva zona de busqueda direta
+- Creamos una nueva zona de busqueda directa.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/1.png)
 
@@ -10,7 +10,7 @@
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/3.png)
 
-- Creamos una nueva zona de busqueda inversa
+- Creamos una nueva zona de busqueda inversa.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/4.png)
 
@@ -24,7 +24,7 @@
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/7.png)
 
-- Ponemos nuevos reenviadores
+- Ponemos nuevos reenviadores.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/9.png)
 
@@ -32,7 +32,7 @@
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/11.png)
 
-- Creamos un nuevo alias del server
+- Creamos un nuevo alias del server.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Windows/IMG/12.png)
 
