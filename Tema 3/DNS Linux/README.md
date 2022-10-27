@@ -17,6 +17,7 @@
 - Comprobamos las resoluciones de nombres externos, tanto en el servidor como en un cliente.
 
 (servidor)
+
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%203/DNS%20Linux/IMG/5.png)
 
 - Colocamos en los DNS del cliente la IP de nuestro servidor DNS
