@@ -120,10 +120,100 @@
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG1/38.png)
 
 
+# 2 PDF #
 
+- Creamos el directorio de las carpetas como se especifican.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/1.png)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/2.png)
 
+- Creamos le configuración del sitio en el DNS.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/3.png)
+
+- Creamos el sitio web.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/4.png)
+
+- Comprobamos que podemos acceder a todos los sitios web.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/5.png)
+
+- Ahora desactivamos la autentificación anonima y activamos la básica del sitio web.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/6.png)
+
+- Creamos el grupo empleados y metemos a los usuarios.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/7.png)
+
+- Ahora modificamos los permisos de las carpetas.
+
+- Empleados.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/8.png)
+
+- Comun.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/9.png)
+
+- Carlos.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/10.png)
+
+- Jose.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/11.png)
+
+- Pedro.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/12.png)
+
+- Comprobamos que podemos entrar en la página principal de empleados. accedo como administrador.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/13.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/14.png)
+
+- Comprobamos que podemos entrar en la página de carlos. registrandonos con usuario carlos.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/15.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/16.png)
+
+- Intentamos acceder a la página web de JOSE, como usuario CARLOS.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/17.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/18.png)
+
+- Ahora probamos desde el cliente. Entramos en la página principal de empleados.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/19.png)
+
+- Accedemos a la página web de pedro como usuario pedro.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/20.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/21.png)
+
+- Intentamos acceder a la página web de carlos con el usuario pedro.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/22.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/23.png)
+
+- Accedemos a la página web común como usuario carlos.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/24.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/25.png)
+
+- Accedemos a la página web común como usuario jose.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/26.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%204/ISS%20Windows/ISS%20Avanzado/IMG2/27.png)
 
 
