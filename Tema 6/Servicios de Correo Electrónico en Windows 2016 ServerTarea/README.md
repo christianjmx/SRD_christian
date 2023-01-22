@@ -167,29 +167,111 @@
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/9.png)
 
+· Abrimos el hMailServer y enctramos el localhost con nuestra contraseña.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/10.png)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/11.png)
 
+· Añadimos dos nuevos dominios.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/12.png)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/13.png)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/14.png)
 
+· Establecemos una carpeta para el backup.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/15.png)
 
+· Añadimos cuentas de los usuarios cada una con distintas configuraciones
 
+· Ficticio 1
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/16.png)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/17.png)
 
+· Ficticio 2, le añadimos un nombre.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/18.png)
 
+· Ficticio 3, le añadimos la respuesta automática.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/19.png)
 
+· Ficticio 4, le añadimos que reenvie a otro usuario.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/20.png)
 
+· Añadimos nuevas zonas de busqueda en el DNS.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/21.png)
 
+· Ahora vamos a configurar algunas opciones del servidor .
 
+· Añadimos un rango de IP que podrán hacer envíos de mensajes.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/22.png)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/23.png)
 
+· Añadimos un correo al cuan se reenviaran todos los mensajes.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/24.png)
+
+· Modificamos el puerto del IMAP
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/25.png)
+
+· Escribimos mensajes de bienvenida de los protocolos.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/26.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/27.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/28.png)
+
+· Instalamos Telnet en el servidor.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/29.png)
+
+· Comprobamos que nos tira el mensaje de bienvenida en todos los protocolos conectando por telnet.
+
+SMPT:
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/30.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/31.png)
+
+POP3:
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/32.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/33.png)
+
+IMAP:
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/34.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/35.png)
+
+· Deshabilitamos el auto ban para que no nos banee.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/36.png)
+
+· Nos decsrgamos el cliente de thunderbird y configuramos lo siguiente para conectar con el usuario.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/37.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/38.png)
+
+· Nos salta el siguiente mensaje, le damos confirmar.
+
+![iamge](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/39.png)
+
+· Tuve un error al intentar entrar con los usuarios, no me dejaba iniciar sesión con ningún usuario y tenian contraseñas y nombre bien puestos. Por lo que no pude realizar las comprobaciones oportunas, pero todo debería de funcionar perfectamente.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/40.png)
 
