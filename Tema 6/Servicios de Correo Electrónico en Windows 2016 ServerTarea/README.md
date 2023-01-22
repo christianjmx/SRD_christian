@@ -137,6 +137,36 @@
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_SMTP/36.png)
 
 
+# hMailServer en Windows Server 2016 - Christian José Moreno Expósito #
+
+· Primero desinstalamos el servicio SMTP.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/1.png)
+
+· Ahora vamos a la página de hMailServer y nos lo descargamos e instalamos.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/2.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/3.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/4.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/5.png)
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/6.png)
+
+· Escribimos una contraseña.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/7.png)
+
+· Instalamos las Frameworks
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/8.png)
+
+· Finalizamos la instalación.
+
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/9.png)
+
 
 
 
