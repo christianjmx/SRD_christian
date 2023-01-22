@@ -57,7 +57,7 @@
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_SMTP/16.png)
 
-· Configurar el cliente de correo Live mail agregando dos cuentas de correo cualesquiera (usuarios AD -dominio- y no AD). Se deberá especificar: usuario / buzón, contraseña,  servidor SMTP.
+· Configurar el cliente de correo Live mail agregando dos cuentas de correo cualquiera (usuarios AD -dominio- y no AD). Se deberá especificar: usuario / buzón, contraseña,  servidor SMTP.
 
     Descargamos pegasumail.
     
@@ -159,7 +159,7 @@
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/7.png)
 
-· Instalamos las Frameworks
+· Instalamos las Frameworks 2.0.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/8.png)
 
@@ -261,7 +261,7 @@ IMAP:
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/36.png)
 
-· Nos decsrgamos el cliente de thunderbird y configuramos lo siguiente para conectar con el usuario.
+· Nos descargamos el cliente de thunderbird y configuramos lo siguiente para conectar con el usuario.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%206/Servicios%20de%20Correo%20Electr%C3%B3nico%20en%20Windows%202016%20ServerTarea/cap_hMail/37.png)
 
