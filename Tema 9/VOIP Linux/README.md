@@ -80,55 +80,22 @@ Ahora para poder hacer que funcione con el teléfono debemos cambiar las tarjeta
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%209/VOIP%20Linux/IMG/23.png)
 
+Descargamos la Aplicación en el teléfono e iniciamos sesión con el otro usuario.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%209/VOIP%20Linux/IMG/zoi1.jpg)
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%209/VOIP%20Linux/IMG/zoi2.jpg)
 
+Ahora vamos a llamar al usuario 10 desde el telefono.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%209/VOIP%20Linux/IMG/zoi3.jpg)
 
+Observamos que el recibimos la llamada en el usuario 10 en la máquina virtual.
 
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%209/VOIP%20Linux/IMG/24.png)
 
+Ahora llamamos desde la máquina virtual al movil y como se puede apreciar en la parte superior de mi teléfono, recibimos la llamada correctamente.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/christianjmx/SRD_christian/blob/main/Tema%209/VOIP%20Linux/IMG/zoi4.jpg)
 
 
