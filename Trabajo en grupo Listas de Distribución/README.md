@@ -30,7 +30,7 @@ Recargamos y Comprobamos que todo funciona correctamente.
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Trabajo%20en%20grupo%20Listas%20de%20Distribuci%C3%B3n/IMG/8.PNG)
 
-Entramos en la página de phplist
+Entramos en la página de phplist con la siguiente URL
 
 ![image](https://github.com/christianjmx/SRD_christian/blob/main/Trabajo%20en%20grupo%20Listas%20de%20Distribuci%C3%B3n/IMG/9.PNG)
 
